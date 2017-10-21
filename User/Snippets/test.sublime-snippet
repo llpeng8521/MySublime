@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+=================================
+USER NAME:          $TM_FULLNAME
+FILE NAME:          $TM_FILENAME
+FILE PATH:          $TM_FILEPATH
+TAB SIZE:           $TM_TAB_SIZE
+SOFT TABS:          $TM_SOFT_TABS
+SELECTION:          $SELECTION
+TM_LINE_INDEX:      $TM_LINE_INDEX
+TM_CURRENT_LINE:    $TM_CURRENT_LINE
+TM_CURRENT_WORD:    $TM_CURRENT_WORD
+TM_LINE_NUMBER:     $TM_LINE_NUMBER
+TM_SELECTED_TEXT:   $TM_SELECTED_TEXT
+TM_SOFT_TABS:       $TM_SOFT_TABS
+TM_TAB_SIZE:        $TM_TAB_SIZE
+=================================
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>test</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

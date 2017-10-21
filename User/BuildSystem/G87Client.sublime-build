@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "client.bat",
+	"working_dir": "E:/G87/trunk/client",
+}

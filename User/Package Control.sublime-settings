@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Function Name Display",
+		"GBK Support",
+		"IMESupport",
+		"Package Control",
+		"Python Breakpoints",
+		"Python Flake8 Lint",
+		"SideBarEnhancements",
+		"Sublime Text 3 Snippets",
+		"SublimeLinter",
+		"SublimeREPL",
+		"TortoiseSVN"
+	]
+}

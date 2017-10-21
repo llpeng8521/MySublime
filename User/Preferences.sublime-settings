@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/User/Monokai (SL) (Flake8Lint).tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Anaconda",
+		"GBK Support",
+		"SublimeLinter",
+		"Vintage"
+	]
+}
