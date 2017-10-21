@@ -3,5 +3,6 @@
 	{ "keys": ["alt+b"], "command": "svn_blame" },
 	{ "keys": ["ctrl+shift+/"], "command": "add_title" },
 	{ "keys": ["ctrl+shift+."], "command": "add_print" },
+	{ "keys": ["ctrl+shift+,"], "command": "add_print_base" },
 	{ "keys": ["ctrl+e"], "command": "expand_selection", "args": {"to": "line"} },
 ]
